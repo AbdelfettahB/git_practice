@@ -1,1 +1,1 @@
-Hello Fit and GitHub
+Hello Git and GitHub
